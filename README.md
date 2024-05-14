@@ -10,8 +10,6 @@ I will be dividing the project timeline into 5 days as follows:
     1. Login Page
     2. Employee Management
     3. User Management
-    4. Recruitment Management
-    5. Leave Management
   
   During this period, I will provide daily updates on my progress using Google Sheets: [Daily Progress Google Sheet](https://docs.google.com/spreadsheets/d/1YxN_X6JDM55k5ZXmVaFoK4mQPrG93oSRKqtHK0cI_RI/edit?usp=sharing)
 
