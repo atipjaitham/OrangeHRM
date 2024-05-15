@@ -1,22 +1,24 @@
-# OrangeHRM Testing Project
+# OrangeHRM Testing Project 🍊
 
 This project aims to enhance my skills in manual testing and automation testing using Cypress.
-- Start Date : 14 May 2024
-- Expected Finish Date : 19 May 2024
+- Start Date : 14 May 2024 🚀
+- Expected Finish Date : 19 May 2024 🚩
 
 ## Overview
 I will be dividing the project timeline into 5 days for phrase 1 as follows:
 
-- **Days 1-3**: Manual Testing (DONE)
+- **Days 1-3**: Manual Testing (DONE) ✅
   - I will create test cases and perform manual testing on the following sections of the website [OrangeHRM Demo](https://opensource-demo.orangehrmlive.com/):
-    1. Login Page
-    2. Employee Management
-    3. User Management
+    1. Login Page ✅
+    2. Employee Management ✅
+    3. User Management ✅
   
-  During this period, I will provide daily updates on my progress using Google Sheets: [Daily Progress Google Sheet](https://docs.google.com/spreadsheets/d/1YxN_X6JDM55k5ZXmVaFoK4mQPrG93oSRKqtHK0cI_RI/edit?usp=sharing)
+  During this period, I will provide daily updates on my progress using Google Sheets
+- [TEST CASE 📝 ](https://docs.google.com/spreadsheets/d/1YxN_X6JDM55k5ZXmVaFoK4mQPrG93oSRKqtHK0cI_RI/edit?usp=sharing)
+- [BUG REPORT 🚨](https://docs.google.com/spreadsheets/d/116LKCIVRZK6iJshkJKkq6l5yru-18YFW7mTAyEI8L-k/edit?usp=sharing)
 
-- **Day 4**: Automation Testing (DOING)
-  - I will automate the tests by writing code in JavaScript using Cypress.
+- **Day 4**: Automation Testing (DOING) ✍️
+  - I will automate the tests by writing code in JavaScript using Cypress. ✍️
 
 - **Day 5**: Custom Commands Implementation
   - All the code will be refactored to use custom commands for easier maintenance and future code reviews.
