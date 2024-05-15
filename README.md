@@ -3,9 +3,9 @@
 This project aims to enhance my skills in manual testing and automation testing using Cypress.
 
 ## Overview
-I will be dividing the project timeline into 5 days as follows:
+I will be dividing the project timeline into 5 days for phrase 1 as follows:
 
-- **Days 1-3**: Manual Testing
+- **Days 1-3**: Manual Testing 
   - I will create test cases and perform manual testing on the following sections of the website [OrangeHRM Demo](https://opensource-demo.orangehrmlive.com/):
     1. Login Page
     2. Employee Management
