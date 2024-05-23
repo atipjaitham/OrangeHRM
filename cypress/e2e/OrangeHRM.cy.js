@@ -40,7 +40,7 @@ describe("Login", () => {
       "Invalid credentials"
     );
   });
-  it("Should display error for existing user when invalid username & invalid password", () => {
+  it("Should display error for existing user when blank username & blank password", () => {
     // cy.get("input[placeholder='Username']").type("Username");
     // cy.get("input[placeholder='Password']").type("Password");
     cy.get("button[type='submit']").click();
